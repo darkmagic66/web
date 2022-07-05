@@ -1,0 +1,47 @@
+
+body{
+	margin:0px;
+	/*margin-top: 0px ;*/
+	/*margin-right: 0px ;*/
+	/*margin-left: 0px ;*/
+}
+
+div{
+	background-color: #D8DEE9;
+	margin-top: 0px ;
+	margin-right: 0px ;
+	margin-left: 0px ;
+
+}
+
+h1{
+	margin:0px;
+}
+
+/*---------------------------------------------------------------------------*/
+
+.box1{
+	background-color: #D8DEE9;;
+	width: 200px;
+	height: 200px;
+	border: solid 10px;
+	padding: 20px;
+}
+
+.box2{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	border: solid 20px;
+	margin-left: 260px;
+}
+
+.box3{
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	border: solid 10px;
+	margin-left: 500px;
+
+}
+
